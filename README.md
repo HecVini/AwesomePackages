@@ -55,7 +55,7 @@
 
 {`cartogram`}: Create Cartograms with R
 
-{`reactablefmtr`}: Streamlined Table Styling and Formatting for Reactable
+{`reactablefmtr`}: Streamlined Table Styling and Formatting for Reactable </br>
 Like this:
             <td style="padding:30px">
             	<img src="https://raw.githubusercontent.com/kcuilla/reactablefmtr/main/man/figures/bubblegridexample.gif" width="300" align="center"/>
