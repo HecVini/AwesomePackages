@@ -1,5 +1,3 @@
-# RPackages
-
 
 
 
@@ -58,16 +56,23 @@
 {`cartogram`}: Create Cartograms with R
 
 {`reactablefmtr`}: Streamlined Table Styling and Formatting for Reactable
+Like this:
             <td style="padding:30px">
-            	<img src="https://kcuilla.github.io/reactablefmtr/" width="500"/>
+            	<img src="https://raw.githubusercontent.com/kcuilla/reactablefmtr/main/man/figures/bubblegridexample.gif" width="300" align="center"/>
 
 {`gt`}: Easily Create Presentation-Ready Display Tables
 
 {`biscale`}: Tools and Palettes for Bivariate Thematic Mapping
 
 {`geogrid`}: Turn Geospatial Polygons into Regular or Hexagonal Grids
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/jbaileyh/geogrid/raw/master/man/README_figs/README-example4-1.png" width="300" align="center"/>
 
 {`ggchicklet`}: Create Chicklet (Rounded Segmented Column) Charts
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/hrbrmstr/ggchicklet/raw/master/man/figures/README-nyt-1.png" width="300" align="center"/>
 
 {`ggfittext`}: Fit Text Inside a Box in 'ggplot2'
 
@@ -76,12 +81,18 @@
 {`ggimage`}: Use Image in 'ggplot2'
 
 {`ggridges`}: Ridgeline Plots in 'ggplot2'
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/hrbrmstr/ggchicklet/raw/master/man/figures/README-nyt-1.png" width="300" align="center"/>
 
 {`ggmap`}: Spatial Visualization with ggplot2
 
 {`ggtext`}: Improved Text Rendering Support for 'ggplot2'
 
 {`WeightedTreemaps`}: Generate and Plot Voronoi or Sunburst Treemaps from Hierarchical Data
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/m-jahn/WeightedTreemaps/raw/master/images/unnamed-chunk-6-1.png" width="300" align="center"/>
 
 {`ggplotify`}: Convert Plot to 'grob' or 'ggplot' Object
 
@@ -95,10 +106,16 @@
 {`geomtextpath`}: Curved Text in 'ggplot2’
 
 {`gghighlight`}: Highlight Lines and Points in 'ggplot2’
+Like this:
+            <td style="padding:30px">
+            	<img src="https://yutannihilation.github.io/gghighlight/reference/figures/README-gghighlight-theme-facets-2.png" width="300" align="center"/>
 
 {`rayshader`}: Create Maps and Visualize Data in 2D and 3D
 
 {`ggbump`}: Bump Chart and Sigmoid Curves
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/davidsjoberg/ggbump/raw/master/man/figures/README-main_plot-1.png" width="500" align="center"/>
 
 {`ggVennDiagram`}: A 'ggplot2' Implement of Venn Diagram
 
@@ -125,6 +142,9 @@
 {`ggrastr`}: Rasterize Layers for 'ggplot2'
 
 {`geofacet`}: 'ggplot2' Faceting Utilities for Geographical Data
+Like this:
+            <td style="padding:30px">
+            	<img src="https://ryanhafen.com/blog/geofacet/images/jobs_lost.png" width="500" align="center"/>
 
 {`ggh4x`}: Hacks for 'ggplot2'
 
@@ -139,6 +159,9 @@
 {`geoviz`}: Elevation and GPS Data Visualisation
 
 {`ggalluvial`}: Alluvial Plots in 'ggplot2'
+Like this:
+            <td style="padding:30px">
+            	<img src="https://corybrunson.github.io/ggalluvial/reference/figures/README-unnamed-chunk-7-1.png" width="300" align="center"/>
 
 {`ggcorrplot`}: Visualization of a Correlation Matrix using 'ggplot2'
 
@@ -155,6 +178,9 @@
 {`gglorenz`}: Plotting Lorenz Curve with the Blessing of 'ggplot2'
 
 {`ggnormalviolin`}: A 'ggplot2' Extension to Make Normal Violin Plots
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/wjschne/ggnormalviolin/raw/main/man/figures/README-unnamed-chunk-9-1.svg" width="300" align="center"/>
 
 {`ggbeeswarm`}: A ‘ggplot2’ Extension to Make Beeswarm plots (aka column scatter plots or violin scatter plots)
 
@@ -167,7 +193,10 @@
 {`ggpattern`}: 'ggplot2' Pattern Geoms
 
 {`ggpointdensity`}: A Cross Between a 2D Density Plot and a Scatter Plot
-
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/LKremer/ggpointdensity/raw/master/img/scatter_dens_bin2d.png" width="500" align="center"/>
+            	
 {`ggpointless`}: A Small Collection of Geometries, and Stats for 'ggplot2'
 
 {`ggside`}: Side Grammar Graphics
@@ -175,6 +204,9 @@
 {`ggTimeSeries`}: Time Series Visualisations Using the Grammar of Graphics
 
 {`ggtrace`}: Trace and Highlight Groups of Data Points
+Like this:
+            <td style="padding:30px">
+            	<img src="https://github.com/rnabioco/ggtrace/raw/master/man/figures/README-unnamed-chunk-2-1.png" width="300" align="center"/>
 
 {`plot3Drgl`}: Plotting Multi-Dimensional Data - Using 'rgl'
 
