@@ -228,6 +228,10 @@ Like this: </br>
 
 {`pder`}: Panel Data Econometrics with R
 
+{`broom`}: summarizes key information about models in tidy tibble()s
+
+{`plm`}: deal with panel data
+
 # 4. APIs
 
 ### Brazil
