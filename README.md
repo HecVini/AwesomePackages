@@ -47,6 +47,8 @@
 
 {`knitr`}: A General-Purpose Package for Dynamic Report Generation in R
 
+{`tictoc`}: Deal with 1B + rows
+
 # 2. DataViz
 
 ### Everyday
