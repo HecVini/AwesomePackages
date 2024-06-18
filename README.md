@@ -234,6 +234,8 @@ Like this: </br>
 
 {`plm`}: deal with panel data
 
+{`gtsummary`}: beautifuly present regression results
+
 # 4. APIs
 
 ### Brazil
